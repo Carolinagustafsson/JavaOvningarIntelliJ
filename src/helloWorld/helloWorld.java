@@ -7,7 +7,7 @@ public class helloWorld {
 
         //Lägg till lite kod
 
-        System.out.println("Ants");
+        System.out.println("Frogs");
 
 
     }
