@@ -32,7 +32,6 @@ public class MyAssignment {
             System.out.println("Antal tecken: " + AntalTecken); //Detta kommer köras efter while-loopen är klar
 
 
-//Använd boolean för att skicka tillbaka
         }
 
     }
